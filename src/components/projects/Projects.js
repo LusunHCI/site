@@ -1,6 +1,11 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectMetaWriter, projectReviewFlow, projectDesignInteraction,projectReview,projectFive,projectSix} from "../../assets/index";
+import { projectMetaWriter, projectReviewFlow, projectDesignInteraction,projectReview,projectPreference,projectXTZ,
+  projectNewsGuesser,
+  projectChatbot,
+  projectDataTalk,
+  projectSD,
+  projectSocialRoles,} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -88,7 +93,7 @@ const Projects = () => {
             author = "Lu Sun, Lillio Mok, Shilad Sen, Bahar Sarrafzadeh"
             conference = "CSCW 24: Under Revision for The 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing"
             abs="As processes around hybrid work, spatially distant collaborations, and work-life boundaries grow increasingly complex, managing workers' schedules for synchronous meetings has become a critical aspect of building successful global teams. However, gaps remain in our understanding of workers' scheduling preferences and practices, which we aim to fill in this large-scale, mixed-methods study of individuals calendars in a multinational organization. Using interviews with eight participants, survey data from 165 respondents, and telemetry data from millions of meetings scheduled by 211 thousand workers, we characterize scheduling preferences, practices, and their relationship with each other and organizational factors. We find that temporal preferences can be broadly classified as either cyclical, such as suitability of certain days, or relational, such as dispersed meetings, at various time scales. Furthermore, our results suggest that these preferences are disconnected from actual practice--albeit with several notable exceptions--and that individual differences are associated with factors like meeting load, time-zones, importance of meetings to job function, and job titles"
-            src={projectMetaWriter}
+            src={projectPreference}
             pdfLink="https://arxiv.org/pdf/2309.08104.pdf"
             websiteLink=""
             tags={["scheduling preference","misalignment", "mixed-methods study"]}
@@ -107,7 +112,7 @@ const Projects = () => {
             the burdens of meeting across time boundaries are asymmetrically distributed among workers at diferent levels of the organization
             and diferent geolocations. Nonetheless, we further observe evidence that cross time zone attendees are organizationally distant
             and diverse, suggesting that addressing these challenges by limiting meetings would disaford employees the opportunities to connect."
-            src={projectMetaWriter}
+            src={projectXTZ}
             pdfLink="https://arxiv.org/pdf/2309.08104.pdf"
             websiteLink=""
             tags={["Collaboration","remote work", "time zone", "connectivity"]}
@@ -133,7 +138,7 @@ const Projects = () => {
             conference = "ICWSM 22: In Proceedings of the International AAAI Conference on Web and Social Media"
             abs=" 
             Online e-commerce product reviews can be highly influential in a customer's decision-making processes. Reviews often describe personal experiences with a product and provide candid opinions about a product's pros and cons. In some cases, reviewers choose to share information about themselves, just as they might do in social platforms. These descriptions are a valuable source of information about who finds a product most helpful. Customers benefit from key insights about a product from people with their same interests and sellers might use the information to better serve their customers needs. In this work, we present a comprehensive look into voluntary self-descriptive information found in public customer reviews. We analyzed what people share about themselves and how this contributes to their product opinions. We developed a taxonomy of types of self-descriptions, and a machine-learned classification model of reviews according to this taxonomy. We present new quantitative findings, and a thematic study of the perceived purpose descriptions in reviews."
-            src={projectMetaWriter}
+            src={projectSD}
             pdfLink="https://ojs.aaai.org/index.php/ICWSM/article/view/22190"
             websiteLink=""
             tags={["personalization","communities identification", "classification model"]}
@@ -158,7 +163,7 @@ exposure. In a number of cases, the guessing process changed participants' impre
 and some expressed an interest in engaging with more diverse news sources. While many also found the
 guessing game frustrating, the system and interview results suggest a number of new directions for designing
 social media and news media platforms"
-            src={projectMetaWriter}
+            src={projectNewsGuesser}
             pdfLink="http://kvaccaro.com.s3.amazonaws.com/documents/NewsGuesser.pdf"
             websiteLink=""
             tags={["filter bubble","selective exposure", "gamification"]}
@@ -186,7 +191,7 @@ social media and news media platforms"
             We developed a preliminary chatbot that simulates conversations with someone seeking mental health advice to help educate volunteer listeners at 7cups. com. 
             Novice crowds perform comparably to experts on tasks that only require natural language understanding, such as correcting how the system classifies a user statement. For more generative tasks, like creating new lines of chatbot dialogue, the experts demonstrated higher quality, novelty, and emotion. 
             We also uncovered a motivational gap: crowd workers enjoyed the interactive tasks, while experts found the work to be tedious and repetitive. We offer design considerations for allocating crowd workers and experts on input tasks for AI systems, and for better motivating experts to participate in low-level data work for AI."
-            src={projectMetaWriter}
+            src={projectChatbot}
             pdfLink="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9Ojvi1sAAAAJ&sortby=pubdate&authuser=1&citation_for_view=9Ojvi1sAAAAJ:zYLM7Y9cAGgC"
             websiteLink=""
             tags={["AI data work","conversational agents", "AI model co-creation"]}
@@ -211,7 +216,7 @@ social media and news media platforms"
             author = "Lu Sun, Robert Kraut, Diyi Yang"
             conference = "CSCW 19: Proceedings of the ACM on Human-Computer Interaction (CSCW)"
             abs="Multi-level Modeling of Social Roles in Online Micro-lending Platforms"
-            src={projectMetaWriter}
+            src={projectSocialRoles}
             pdfLink="https://dl.acm.org/doi/pdf/10.1145/3359235"
             websiteLink=""
             tags={["social roles","online micro lending platform", "social roles modeling"]}
@@ -223,7 +228,7 @@ social media and news media platforms"
             author = "Brian James McInnis, Lu Sun, Jungwon Shin, Steven P Dow"
             conference = "CSCW 20: Proceedings of the ACM on Human-Computer Interaction (CSCW)"
             abs="are, but valuable: Understanding data-centered talk in news website comment sections"
-            src={projectMetaWriter}
+            src={projectDataTalk}
             pdfLink="https://dl.acm.org/doi/pdf/10.1145/3415245"
             websiteLink=""
             tags={["online discussion","data visualization", "data literacy"]}
