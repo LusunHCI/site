@@ -30,8 +30,8 @@ const RightBanner = () => {
          and <a href="https://designlab.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor"> the Design Lab</a> at UC San Diego. 
         I am advised by <a href="https://spdow.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Steven Dow</a> and collaborating with <a href="https://kvaccaro.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Kristen Vaccaro</a>.
         My research interests focus on <span className="text-designColor"> Human-Computer Interaction, HCI x NLP, Learning science, and Computational Social Science.</span>
-        I explore the potentials of using LLM scaffolding for sense-making and writing in scientific context and I develop tools to facilitate acdemic peer review. 
-        I work on evaluating the faithfulness and trustworthiness in text generation from stakeholder perspectives. 
+        I explore the potentials of using AI scaffolding for knowledge work including sense-making and writing in scientific context. I develop tools to facilitate acdemic peer review. 
+        I work on evaluating the faithfulness and trustworthiness in text generation from multi-stakeholder perspectives. 
         During my doctoral research, I have collaborated with 
         <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Microsoft Research </a> and
         <a href="https://www.amazon.science/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Amazon Science </a>.
@@ -40,11 +40,9 @@ const RightBanner = () => {
         Before entering my graduate program, I received my B.Eng. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunication (BUPT) and 
         a Master degree from  <a href="https://hcii.cmu.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Carnegie Mellon University (CMU), Human Computer Interaction Institute (HCII)</a>, specializing in Learning Science. 
         During my time at CMU, I was fortunate to work with 
-        <a href="https://kraut.hciresearch.info/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Robert E. Kraut</a>,
-        <a href="https://cs.stanford.edu/~diyiy/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Diyi Yang</a>, 
-        <a href="https://pact.cs.cmu.edu/koedinger.html" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Ken Koedinger</a>, and 
-        <a href="http://www.justinecassell.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Justine Cassell</a> .
-        Out of my research, I enjoyed participating mentorship program to support women in computing and teaching HCI courses. 
+        <a href="https://kraut.hciresearch.info/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Robert E. Kraut</a>, 
+        <a href="https://cs.stanford.edu/~diyiy/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Diyi Yang</a>, <a href="https://pact.cs.cmu.edu/koedinger.html" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Ken Koedinger</a>, and   <a href="http://www.justinecassell.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Justine Cassell</a> .
+        Out of my research, I like participating mentorship program to support women in computing and teaching HCI courses. 
         I am a Taekwondo player and I play violin and tennis.
         </p>
         <div className="flex flex-col gap-2">
