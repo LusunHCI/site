@@ -41,8 +41,7 @@ const Projects = () => {
              The system highlights common topics in the original peer reviews, extracts key points by each reviewer, and on request, provides a preliminary draft of a meta-review that can be further edited. 
              To understand how novice and experienced meta-reviewers use MetaWriter, we conducted a within-subject study with 32 participants. 
              Each participant wrote meta-reviews for two papers: one with and one without MetaWriter. 
-             We found that MetaWriter significantly expedited the authoring process and improved the coverage of meta-reviews, as rated by experts, compared to the baseline. While participants recognized the efficiency benefits, they raised concerns around trust, over-reliance, and agency.
-             We also interviewed six paper authors to understand their opinions of using machine intelligence to support the peer review process and reported critical reflections. "
+             We found that MetaWriter significantly expedited the authoring process and improved the coverage of meta-reviews, as rated by experts, compared to the baseline. While participants recognized the efficiency benefits, they raised concerns around trust, over-reliance, and agency."
             src={projectMetaWriter}
             pdfLink="https://drive.google.com/file/d/1tGG9fBQURdXNmE8AMMbEpLHANFXJka8W/view?usp=sharing"
             websiteLink="https://meta-assistant.netlify.app/metareview/0?user_id=test&cv=B"
@@ -51,9 +50,9 @@ const Projects = () => {
         </div>
         <div>
         <ProjectsCard
-            title="Intelligent Scaffolding to Support a Workflow for Academic Peer Reviews"
+            title="ReviewFlow: Intelligent Scaffolding to Support a Workflow for Academic Peer Reviews"
             author = "Lu Sun, Aaron Chan, Yunseo Chang, Steven P. Dow"
-            conference = "Under Review, Anonymized title for Peer Review"
+            conference = "IUI 24: Accepted at the 29th annual ACM Conference on Intelligent User Interfaces"
             abs="Peer review is essential to the scientific process. Research communities conduct peer reviews to assess contributions and to improve the overall quality of science work. As research communities grow, and review volunteers spread thin, less experienced researchers are often recruited as peer reviewers for the first time. 
             We sought to explore how scaffolding could be designed to help novices adopt a research community's practices and standards for peer reviewing.
             We developed an AI-driven workflow prototype that scaffolds novices with contextual cues to critique and annotate submissions, in-situ knowledge support to assess novelty, and notes-to-outline synthesis to streamline the writing of reviews that align with community expectations."
@@ -92,7 +91,7 @@ const Projects = () => {
             title="Rhythm of Work: Mixed-methods Characterization of Information Workers Scheduling Preferences and Practices"
             author = "Lu Sun, Lillio Mok, Shilad Sen, Bahar Sarrafzadeh"
             conference = "CSCW 24: Under Revision for The 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing"
-            abs="As processes around hybrid work, spatially distant collaborations, and work-life boundaries grow increasingly complex, managing workers' schedules for synchronous meetings has become a critical aspect of building successful global teams. However, gaps remain in our understanding of workers' scheduling preferences and practices, which we aim to fill in this large-scale, mixed-methods study of individuals calendars in a multinational organization. Using interviews with eight participants, survey data from 165 respondents, and telemetry data from millions of meetings scheduled by 211 thousand workers, we characterize scheduling preferences, practices, and their relationship with each other and organizational factors. We find that temporal preferences can be broadly classified as either cyclical, such as suitability of certain days, or relational, such as dispersed meetings, at various time scales. Furthermore, our results suggest that these preferences are disconnected from actual practice--albeit with several notable exceptions--and that individual differences are associated with factors like meeting load, time-zones, importance of meetings to job function, and job titles"
+            abs="As processes around hybrid work, spatially distant collaborations, and work-life boundaries grow increasingly complex, managing workers' schedules for synchronous meetings has become a critical aspect of building successful global teams. However, gaps remain in our understanding of workers' scheduling preferences and practices, which we aim to fill in this large-scale, mixed-methods study of individuals calendars in a multinational organization. Using interviews with eight participants, survey data from 165 respondents, and telemetry data from millions of meetings scheduled by 211 thousand workers, we characterize scheduling preferences, practices, and their relationship with each other and organizational factors. We find that temporal preferences can be broadly classified as either cyclical, such as suitability of certain days, or relational, such as dispersed meetings, at various time scales. Furthermore, our results suggest that these preferences are disconnected from actual practice--albeit with several notable exceptions--and that individual differences are associated with factors like meeting load, time-zones, importance of meetings to job function, and job titles."
             src={projectPreference}
             pdfLink="https://arxiv.org/pdf/2309.08104.pdf"
             websiteLink=""
@@ -137,7 +136,7 @@ const Projects = () => {
             author = "Lu Sun, F Maxwell Harper, Chia-Jung Lee, Vanessa Murdock, Barbara Poblete"
             conference = "ICWSM 22: In Proceedings of the International AAAI Conference on Web and Social Media"
             abs=" 
-            Online e-commerce product reviews can be highly influential in a customer's decision-making processes. Reviews often describe personal experiences with a product and provide candid opinions about a product's pros and cons. In some cases, reviewers choose to share information about themselves, just as they might do in social platforms. These descriptions are a valuable source of information about who finds a product most helpful. Customers benefit from key insights about a product from people with their same interests and sellers might use the information to better serve their customers needs. In this work, we present a comprehensive look into voluntary self-descriptive information found in public customer reviews. We analyzed what people share about themselves and how this contributes to their product opinions. We developed a taxonomy of types of self-descriptions, and a machine-learned classification model of reviews according to this taxonomy. We present new quantitative findings, and a thematic study of the perceived purpose descriptions in reviews."
+            Online e-commerce product reviews can be highly influential in a customer's decision-making processes. In this work, we present a comprehensive look into voluntary self-descriptive information found in public customer reviews. We analyzed what people share about themselves and how this contributes to their product opinions. We developed a taxonomy of types of self-descriptions, and a machine-learned classification model of reviews according to this taxonomy. We present new quantitative findings, and a thematic study of the perceived purpose descriptions in reviews."
             src={projectSD}
             pdfLink="https://ojs.aaai.org/index.php/ICWSM/article/view/22190"
             websiteLink=""
@@ -157,12 +156,7 @@ offered. To address this, we design the NewsGuesser system, which leverages the 
 prompt motivation and engagement, by asking readers to guess the source of their news. In interviews with
 40 participants, balanced for partisan affiliation, we use NewsGuesser as a probe tool to explore how guessing
 affects their perceptions of selective exposure. Participants struggled with the guessing game, which revealed a
-misalignment between users' expectations of different news sources and reality. Faced with the visualizations
-of the (often inaccurate) guessing results, participants were able to reflect on their own biases and selective
-exposure. In a number of cases, the guessing process changed participants' impressions of news organizations
-and some expressed an interest in engaging with more diverse news sources. While many also found the
-guessing game frustrating, the system and interview results suggest a number of new directions for designing
-social media and news media platforms"
+misalignment between users' expectations of different news sources and reality."
             src={projectNewsGuesser}
             pdfLink="http://kvaccaro.com.s3.amazonaws.com/documents/NewsGuesser.pdf"
             websiteLink=""
@@ -227,7 +221,7 @@ social media and news media platforms"
             title="Rare, but valuable: Understanding data-centered talk in news website comment sections"
             author = "Brian James McInnis, Lu Sun, Jungwon Shin, Steven P Dow"
             conference = "CSCW 20: Proceedings of the ACM on Human-Computer Interaction (CSCW)"
-            abs="are, but valuable: Understanding data-centered talk in news website comment sections"
+            abs="Rare, but valuable: Understanding data-centered talk in news website comment sections"
             src={projectDataTalk}
             pdfLink="https://dl.acm.org/doi/pdf/10.1145/3415245"
             websiteLink=""

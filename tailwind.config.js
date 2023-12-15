@@ -23,7 +23,7 @@ module.exports = {
         fadeColor: "#59616B",
         darkColor: "#212428",
         boxBg: "linear-gradient(145deg, #1e2024, #23272b)",
-        designColor: "#60a5fa",
+        designColor: "#4897FA",
       },
       boxShadow: {
         shadowOne:"bg-blue-500 shadow-lg shadow-blue-500/50",

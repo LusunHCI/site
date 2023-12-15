@@ -39,8 +39,7 @@ const RightBanner = () => {
         <p className="text-base font-bodyFont leading-6 tracking-wide">
         Before entering my graduate program, I received my B.Eng. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunication (BUPT) and 
         a Master degree from  <a href="https://hcii.cmu.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Carnegie Mellon University (CMU), Human Computer Interaction Institute (HCII)</a>, specializing in Learning Science. 
-        During my time at CMU, I was fortunate to work with 
-        <a href="https://kraut.hciresearch.info/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Robert E. Kraut</a>, 
+        During my time at CMU, I was fortunate to work with <a href="https://kraut.hciresearch.info/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Robert E. Kraut</a>, 
         <a href="https://cs.stanford.edu/~diyiy/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Diyi Yang</a>, <a href="https://pact.cs.cmu.edu/koedinger.html" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Ken Koedinger</a>, and   <a href="http://www.justinecassell.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Justine Cassell</a> .
         Out of my research, I like participating mentorship program to support women in computing and teaching HCI courses. 
         I am a Taekwondo player and I play violin and tennis.
