@@ -1,7 +1,6 @@
 import React from 'react'
 import { FaRegFilePdf } from "react-icons/fa";
 import { FaPlay } from "react-icons/fa";
-import { FaDisplay } from "react-icons/fa6";
 // import { BsGithub } from "react-icons/bs";
 // import { FaGlobe } from "react-icons/fa";
 
@@ -27,7 +26,7 @@ const ProjectsCard = ({ title, author, conference, abs, src,pdfLink, websiteLink
               </span>
               <span className="text-lg w-8 h-8 rounded-md bg-white border border-darkColor inline-flex justify-center items-center text-darkColor hover:text-designColor duration-300 cursor-pointer">
               <a href={websiteLink} target="_blank" rel="noopener noreferrer">
-                <FaDisplay /></a>
+                <FaPlay /></a>
               </span>
             </div>
           </div>

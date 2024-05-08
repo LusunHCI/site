@@ -17,32 +17,42 @@ const Publication = () => {
         <div className="w-full p-4 xl:px-6 h-auto xl:py-6 flex group gap-6">
         <ul className="list-decimal">
           <li>
+                  <div className="font-medium">Design For Microaggressions</div>
+                  <div><span className="text-designColor font-medium">Lu Sun</span>, Yutong Chen, Binghong Li, RuoXuan Li, Kristen Vaccaro</div>
+                  <div><span className="font-medium">CSCW'24</span>: Under Revision at The 27th ACM Conference on Computer-Supported Cooperative Work and Social Computing </div>
+                  <span className="text-lg inline-flex justify-center items-center text-darkColor hover:text-designColor duration-300 cursor-pointer">
+                  {/* <a href="" target="_blank" rel="noopener noreferrer"> */}
+                    <ImFilePdf />
+                    {/* </a> */}
+                  </span>
+              </li>
+          <li>
                 <div className="font-medium">ReviewFlow: Intelligent Scaffolding to Support a Workflow for Academic Peer Reviews</div>
                 <div><span className="text-designColor font-medium">Lu Sun</span>, Aaron Chan, Yunseo Chang, Steven P. Dow</div>
-                <div><span className="font-medium">IUI'24</span>: Accepted at the 29th annual ACM Conference on Intelligent User Interfaces</div>
+                <div><span className="font-medium">IUI'24</span>: In Proceedings of the 29th annual ACM Conference on Intelligent User Interfaces</div>
                 <span className="text-lg inline-flex justify-center items-center text-darkColor hover:text-designColor duration-300 cursor-pointer">
-                {/* <a href="" target="_blank" rel="noopener noreferrer"> */}
+                <a href="https://dl.acm.org/doi/pdf/10.1145/3640543.3645159" target="_blank" rel="noopener noreferrer">
                   <ImFilePdf />
-                  {/* </a> */}
+                  </a>
                 </span>
-              </li>
+            </li>
             <li>
               <div className="font-medium">MetaWriter: Exploring the Potential and Perils of AI Writing Support in Scientific Peer Review</div>
               <div><span className="text-designColor font-medium">Lu Sun</span>, Stone Tao, Junjie Hu, and Steven P. Dow</div>
-              <div><span className="font-medium">CSCW'24</span>: Accepted at The 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing</div>
+              <div><span className="font-medium">CSCW'24</span>: In Proceedings of the 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing</div>
               <span className="text-lg inline-flex justify-center items-center text-darkColor hover:text-designColor duration-300 cursor-pointer">
-              {/* <a href=""> */}
+              <a href="https://dl.acm.org/doi/pdf/10.1145/3637371" target="_blank" rel="noopener noreferrer">
                 <ImFilePdf />
-                {/* </a> */}
+                </a>
               </span>
             </li>
 
             <li>
               <div className="font-medium">NewsGuesser: Using Curiosity to reduce selective exposure</div>
               <div><span className="text-designColor font-medium">Lu Sun</span>, Hengyuan Zhang, Enze Liu, Mingyang Liu, and Kristen Vaccaro</div>
-              <div><span className="font-medium">CSCW'24</span>: Accepted at The 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing</div>
+              <div><span className="font-medium">CSCW'24</span>: In Proceedings of the 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing</div>
               <span className="text-lg inline-flex justify-center items-center text-darkColor hover:text-designColor duration-300 cursor-pointer">
-              <a href="http://kvaccaro.com.s3.amazonaws.com/documents/NewsGuesser.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="https://dl.acm.org/doi/pdf/10.1145/3637376" target="_blank" rel="noopener noreferrer">
                 <ImFilePdf /></a>
               </span>
             </li>

@@ -20,7 +20,7 @@ const Media = () => {
               <SiGmail /></a>
             </span>
             <span className="text-lg w-8 h-8 rounded-md bg-white border border-darkColor inline-flex justify-center items-center text-darkColor hover:text-designColor duration-300 cursor-pointer">
-              <a href="https://drive.google.com/file/d/1hPrNvfkp4Lb-paz3F5FdaaklT-p5tjN1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/17rm-3vDIlKqEFDtf80sknmSKGYLMQUrH/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <FaRegFilePdf /></a>
               </span>
           </div>

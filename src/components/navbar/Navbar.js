@@ -35,7 +35,7 @@ const Navbar = () => {
           ))}
         </ul>
         <span className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300">
-        <a href="https://drive.google.com/file/d/1R6hF_DB_Y7TVmUEv2Ipj1xKmCKDlcas8/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+        <a href="https://drive.google.com/file/d/17rm-3vDIlKqEFDtf80sknmSKGYLMQUrH/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
         </span>
         {/* <span
           onClick={() => setShowMenu(!showMenu)}

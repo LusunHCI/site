@@ -10,6 +10,7 @@ import projectNewsGuesser from "./images/projects/projectNewsGuesser.png";
 import projectChatbot from "./images/projects/projectChatbot.png";
 import projectDataTalk from "./images/projects/projectDataTalk.png";
 import projectSD from "./images/projects/projectSD.png";
+import projectCoDesign from "./images/projects/projectCoDesign.png";
 import projectSocialRoles from "./images/projects/projectSocialRoles.png";
 
 
@@ -26,5 +27,6 @@ export {
   projectChatbot,
   projectDataTalk,
   projectSD,
+  projectCoDesign,
   projectSocialRoles,
 };

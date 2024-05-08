@@ -26,15 +26,15 @@ const RightBanner = () => {
           />
         </h2> */}
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        I am a fifth year PhD student in  <a href="https://cogsci.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Cognitive Science Department </a>
+        I am a fifth year PhD candidate at  <a href="https://cogsci.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Cognitive Science Department </a>
          and <a href="https://designlab.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor"> the Design Lab</a> at UC San Diego. 
-        I am advised by <a href="https://spdow.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Steven Dow</a> and collaborating with <a href="https://kvaccaro.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Kristen Vaccaro</a>.
+        I am advised by <a href="https://spdow.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Steven Dow</a> and <a href="https://kvaccaro.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Kristen Vaccaro</a>.
         My research interests focus on <span className="text-designColor"> Human-Computer Interaction, HCI x NLP, Learning science, and Computational Social Science.</span>
         I explore the potentials of using AI scaffolding for knowledge work including sense-making and writing in scientific context. I develop tools to facilitate acdemic peer review. 
         I work on evaluating the faithfulness and trustworthiness in text generation from multi-stakeholder perspectives. 
         During my doctoral research, I have collaborated with 
         <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Microsoft Research </a> and
-        <a href="https://www.amazon.science/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Amazon Science </a>.
+        <a href="https://www.amazon.science/" target="_blank" rel="noopener noreferrer" className="text-designColor"> Amazon Science</a>.
         </p>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
         Before entering my graduate program, I received my B.Eng. degree in Telecommunication Engineering from Beijing University of Posts and Telecommunication (BUPT) and 
