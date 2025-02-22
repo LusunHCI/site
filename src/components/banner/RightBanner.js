@@ -15,7 +15,7 @@ const RightBanner = () => {
       <div className="flex flex-col gap-5">
         {/* <h4 className=" text-lg font-normal">Hi, I am </h4> */}
         <h1 className="text-3xl font-bold text-bodycolor">
-          Hi, I'm <span className="text-designColor capitalize"> Lu Sun | 孙露</span>
+          Hi, I'm <span className="text-designColor capitalize"> Lu Sun </span>
         </h1>
         {/* <h2 className="text-4xl font-bold text-white">
           a <span>{text}</span>
