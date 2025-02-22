@@ -29,7 +29,7 @@ const RightBanner = () => {
         I am a fifth year PhD candidate at  <a href="https://cogsci.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Cognitive Science Department </a>
          and <a href="https://designlab.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor"> the Design Lab</a> at UC San Diego. 
         I am advised by <a href="https://spdow.ucsd.edu/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Steven Dow</a> and <a href="https://kvaccaro.com/" target="_blank" rel="noopener noreferrer" className="text-designColor">Prof. Kristen Vaccaro</a>.
-        My research interests focus on <span className="text-designColor"> Human-Computer Interaction, HCI x NLP, Learning science, and Computational Social Science.</span>
+        My research interests focus on <span className="text-designColor"> Human-Centered AI, Applied Machine Learning, and Computational Social Science.</span>
         I explore the potentials of using AI scaffolding for knowledge work including sense-making and writing in scientific context. I develop tools to facilitate acdemic peer review. 
         I work on evaluating the faithfulness and trustworthiness in text generation from multi-stakeholder perspectives. 
         During my doctoral research, I have collaborated with 
@@ -47,13 +47,13 @@ const RightBanner = () => {
         <div className="flex flex-col gap-2">
         <div className='mt-1'>
           <span className="w-fit text-darkColor bg-blue-300 bg-opacity-75 rounded-md mr-2 p-1 px-4 justify-center items-center shadow-shadowOne text-sm font-medium">
-            Human-Computer Interaction
+            Human-Centered AI
           </span>
           <span className="w-fit text-darkColor bg-blue-300 bg-opacity-75 rounded-md mr-2 p-1 px-4 justify-center items-center shadow-shadowOne text-sm font-medium">
-          HCI x NLP
+          NLP
           </span>
           <span className="w-fit text-darkColor bg-blue-300 bg-opacity-75 rounded-md mr-2 p-1 px-4 justify-center items-center shadow-shadowOne text-sm font-medium">
-          Learning science
+          Applied Machine Learning and statistical analysis
           </span>
           <span className="w-fit text-darkColor bg-blue-300 bg-opacity-75 rounded-md mr-2 p-1 px-4 justify-center items-center shadow-shadowOne text-sm font-medium">
           Computational Social Science
@@ -61,10 +61,10 @@ const RightBanner = () => {
         </div>
         <div className='mt-0'>
           <span className="w-fit text-darkColor bg-blue-300 bg-opacity-75 rounded-md mr-2 p-1 px-4 justify-center items-center shadow-shadowOne text-sm font-medium">
-           LLM scaffolding for sense-making and writing
+           Human-AI collaboration for academic peer review
           </span>
           <span className="w-fit text-darkColor bg-blue-300 bg-opacity-75 rounded-md mr-2 p-1 px-4 justify-center items-center shadow-shadowOne text-sm font-medium">
-          Human-AI collaboration for academic peer review
+          LLM development for sensemaking and writing
           </span>
         </div>
         <div className='mt-0'>
