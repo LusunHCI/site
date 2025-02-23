@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/site/static/css/main.a3f5a519.css",
-    "main.js": "/site/static/js/main.130e65f5.js",
+    "main.js": "/site/static/js/main.2af3e1d3.js",
     "static/media/bannerImg.png": "/site/static/media/bannerImg.186f7a908562ebc84067.png",
+    "static/media/projectDesignInteraction.png": "/site/static/media/projectDesignInteraction.8d28517e6d2f259f0001.png",
     "static/media/projectCoDesign.png": "/site/static/media/projectCoDesign.dd7e93ef10de61369ac0.png",
     "static/media/projectReviewFlow.png": "/site/static/media/projectReviewFlow.b6e621070e3d2ef81d15.png",
     "static/media/projectDataTalk.png": "/site/static/media/projectDataTalk.69a70797315b84c5a365.png",
     "static/media/projectChatbot.png": "/site/static/media/projectChatbot.73ef4810d68195dd1d1d.png",
     "static/media/projectSD.png": "/site/static/media/projectSD.2677e73d7d4760cf1681.png",
     "static/media/projectMetaWriter.png": "/site/static/media/projectMetaWriter.5ef42a83157b94f94bf8.png",
-    "static/media/projectDesignInteraction.png": "/site/static/media/projectDesignInteraction.53b11f940d3a939b2f28.png",
     "static/media/projectReview.png": "/site/static/media/projectReview.74023fda760471a8e742.png",
     "static/media/projectNewsGuesser.png": "/site/static/media/projectNewsGuesser.6bd5947fca3b9419311a.png",
     "static/media/projectSocialRoles.png": "/site/static/media/projectSocialRoles.f3dd9be2d0f78ebe554c.png",
@@ -18,10 +18,10 @@
     "static/media/logo.png": "/site/static/media/logo.c051035f5f1175ebcc22.png",
     "index.html": "/site/index.html",
     "main.a3f5a519.css.map": "/site/static/css/main.a3f5a519.css.map",
-    "main.130e65f5.js.map": "/site/static/js/main.130e65f5.js.map"
+    "main.2af3e1d3.js.map": "/site/static/js/main.2af3e1d3.js.map"
   },
   "entrypoints": [
     "static/css/main.a3f5a519.css",
-    "static/js/main.130e65f5.js"
+    "static/js/main.2af3e1d3.js"
   ]
 }
